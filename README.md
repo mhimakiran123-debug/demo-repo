@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-Author- Himakiran
+Author- Himakiran (Btech student)
